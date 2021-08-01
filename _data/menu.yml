@@ -49,7 +49,7 @@ entries:
           - title: example page
             url: about
           - title: another page example from a post
-            url: _posts/2021-08-01-WofostR.md
+            url: WofostR
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
