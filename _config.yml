@@ -6,10 +6,11 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   
   UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION
-  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION
-  <br>
-  Personal page of Luca Bütikofer.
+  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION
 
+  <br><br>
+
+  Spatial- and Agro- Ecologist.
 
 
 permalink: /:slug.html
