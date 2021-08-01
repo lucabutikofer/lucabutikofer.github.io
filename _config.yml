@@ -5,11 +5,11 @@ email: lucabutikofer@gmail.com # email of site's author
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   
-  UNDER CONSTRUCTION
-  \
+  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION
+  UNDER CONSTRUCTION  UNDER CONSTRUCTION  UNDER CONSTRUCTION
+  <br>
   Personal page of Luca Bütikofer.
-  \
-  UNDER CONSTRUCTION
+
 
 
 permalink: /:slug.html
