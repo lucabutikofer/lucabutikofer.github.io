@@ -1,0 +1,22 @@
+
+This website is meant to be used with RStudio, is hosted on GitHub and written in Jekyll.
+
+
+To generate new post:
+
+Create new RMarkdown file in "_knitr"" folder with the content of the post and name it with the format of all files in the "_posts" folder (to maintain the date in the homepage).
+The post cannot use interactive content.
+Source file "_knitr/render_post.R" and run function "KnitPost()". This transform the RMarkdonw file into a Jekyll readable markdown file that will get saved in the "_posts" folder.
+
+If you update the RMmarkdown file, run "KnitPost(overwrite = T)". This will overwrite the Jekyll readable markdown file in the "_posts" folder.
+
+Then push the changes to the Git repository https://github.com/problemareas/problemareas.github.io.git
+
+
+To generate interactive content:
+
+Create new RMarkdown file with e.g. HTMLwidgets in a new folder (e.g. "../NewFolder").
+Click the options button next to the "Knit" button; click "Output Options..."; tick "Apply CSS file:" and select file "_sass/no-style-please.scss".
+Click the little triangle inside the "Knit" button to expose the dropdonw menue; click "Knit to HTML" to knit the RMarkdonw file.
+Rename the .html file with the format of all files in the "_posts" folder (to maintain the date in the homepage).
+Move the .html file to the "_posts" folder and push the changes.

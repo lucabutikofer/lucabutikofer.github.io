@@ -17,6 +17,13 @@ entries:
       - title: cit.3 <a href="url"> DOI HERE </a>
       - title: cit ... <a href="url"> DOI HERE </a>
 
+  - title: software
+    entries:
+      - title: cit.1 <a href="url"> DOI HERE </a>
+      - title: cit.2 <a href="url"> DOI HERE </a>
+      - title: cit.3 <a href="url"> DOI HERE </a>
+      - title: cit ... <a href="url"> DOI HERE </a>
+
   - title: posts by category
     post_list:
       category: example2
