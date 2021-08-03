@@ -6,9 +6,10 @@ entries:
     entries:
       - title: about
         url: about
-      - title: github repo
+      - title: github
         url: https://github.com/lucabutikofer
-      - title: rothamsted research, personal page
+      - title: rothamsted
+        url: https://www.rothamsted.ac.uk/our-people/luca-bütikofer
 
   - title: publications
     entries:
@@ -16,13 +17,18 @@ entries:
       - title: cit.2 <a href="url"> DOI HERE </a>
       - title: cit.3 <a href="url"> DOI HERE </a>
       - title: cit ... <a href="url"> DOI HERE </a>
+      - title: google scholar
+        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
   - title: software
     entries:
-      - title: cit.1 <a href="url"> DOI HERE </a>
-      - title: cit.2 <a href="url"> DOI HERE </a>
-      - title: cit.3 <a href="url"> DOI HERE </a>
-      - title: cit ... <a href="url"> DOI HERE </a>
+      - title: WofosR, crop suitability model in R
+        url: WofostR2
+      - title: LingraNR, grassland productivity model in R
+        url: LingraNR
+      - title: Biolinv, modelling and forecasting biological invasions
+        url: https://cran.r-project.org/package=Biolinv
+
 
   - title: all posts
     post_list:
