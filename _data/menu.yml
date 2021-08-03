@@ -10,15 +10,16 @@ entries:
         url: https://github.com/lucabutikofer
       - title: rothamsted
         url: https://www.rothamsted.ac.uk/our-people/luca-bütikofer
+      - title: google scholar
+        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
-  - title: publications
+  - title: latest publications
     entries:
       - title: cit.1 <a href="url"> DOI HERE </a>
       - title: cit.2 <a href="url"> DOI HERE </a>
       - title: cit.3 <a href="url"> DOI HERE </a>
       - title: cit ... <a href="url"> DOI HERE </a>
-      - title: google scholar
-        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
+
 
   - title: software
     entries:
@@ -30,34 +31,34 @@ entries:
         url: https://cran.r-project.org/package=Biolinv
 
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-          - title: another page example from a root file
-            url: WofostR2
-          - title: another page example from a post
-            url: _posts/2021-08-01-WofostR.md
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#   - title: all posts
+#     post_list:
+#       limit: 5
+#       show_more: true
+#       show_more_text: See archive...
+#       show_more_url: archive.html
+# 
+#   - title: posts by category
+#     post_list:
+#       category: example2
+#       show_more: true
+#       show_more_text: See more posts...
+#       show_more_url: example2-archive.html
+# 
+#   - title: rss
+#     url: feed.xml
+#   
+#   - title: another list
+#     entries:
+#       - title: with subitems
+#         entries:
+#           - title: with subsubitems
+#           - title: example page
+#             url: about
+#           - title: another page example from a root file
+#             url: WofostR2
+#           - title: another page example from a post
+#             url: _posts/2021-08-01-WofostR.md
+#   - title: PRO TIP
+#     entries:
+#       - title: to edit this menu, edit _data/menu.yml file
