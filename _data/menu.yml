@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Info
+  - title: Links
     entries:
       - title: github
         url: https://github.com/lucabutikofer
