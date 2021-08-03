@@ -3,13 +3,13 @@
 R Interface to [LINGRA-N Tool](https://widgets.figshare.com/articles/11359613/embed?show_title=1), grassland productivity model and functions to implement the grassland productivity metamodel of Qi <i>at al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup>.
 
 
-***
+
 ### Installation
 ```R
 devtools::install_github('lucabutikofer/LingraNR')
 ```
 
-***
+
 ### Documentation
 
 LINGRA-N  is a  grass growth model which can calculate grass growth and yields under potential, water-limited and nitrogen-limited growing conditions. LINGRA-N is a generic model which can be used for different grass types growing under a large range of soil and weather conditions and with different mowing regimes. The background document and detailed information about LINGRA-N and its FORTRAN code are provided by Wolf (2012)<sup>[3](#footn3)</sup>.
@@ -69,7 +69,7 @@ plotw(weatherExmpl[1:365,])
 plotdm(lo)
 plotn(lo)
 ```
-![alt text][lingraOutpu1]
+![][lingraOutpu1]
 
 
 #### Running Qi <i>et al.</i>'s metamodel
@@ -88,4 +88,4 @@ Additionally, a yield modifyer function (`Nchange()`) is available to correct th
 <a name="footn3">3</a>: Wolf J. LINGRA-N: Simple generic model for simulation of grass growth under potential,
 water limited and N limited conditions. (2012) https://models.pps.wur.nl/lingra-n-grassland-model-potential-water-limited-and-n-limited-conditions-fortran .
 
-[lingraOutpu1]: https://github.com/lucabutikofer/LingraNR/blob/master/man/figures/LingranrOutput.png "Output of Lingranr function"
+[lingraOutpu1]: https://raw.githubusercontent.com/lucabutikofer/LingraNR/master/man/figures/LingranrOutput.png "Output of Lingranr function"
