@@ -4,8 +4,6 @@
 entries:
   - title: info
     entries:
-      - title: about
-        url: about
       - title: github
         url: https://github.com/lucabutikofer
       - title: rothamsted
