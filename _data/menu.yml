@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
       - title: github
         url: https://github.com/lucabutikofer
@@ -11,7 +11,7 @@ entries:
       - title: google scholar
         url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
-  - title: latest publications
+  - title: Latest publications
     entries:     
       - title: Gardner, A. S., Maclean, I. M. D., Gaston, K. J. & Bütikofer, L.
                <a href = https://doi.org/10.1016/j.agsy.2021.103084>
@@ -30,7 +30,7 @@ entries:
                A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal.</a>
                Plos One (2018).
 
-  - title: software
+  - title: Software
     entries:
       - title: WofosR, crop suitability model in R
         url: WofostR2
