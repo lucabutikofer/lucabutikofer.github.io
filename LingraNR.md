@@ -1,3 +1,9 @@
+---
+title: "LingraNR, tutorial"
+subtitle: "R implementation of Lingra-N grass simulation model"
+author: "Luca Bütikofer"
+date: "2021-08-01"
+---
 
 R Interface to [LINGRA-N Tool](https://widgets.figshare.com/articles/11359613/embed?show_title=1), grassland productivity model and functions to implement the grassland productivity metamodel of Qi <i>at al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup>.
 
