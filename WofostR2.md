@@ -8,7 +8,7 @@ date: "2021-08-01"
 
 
 
-## R implementation of Wofost crop simulation model
+R implementation of Wofost crop simulation model
 
 
 See [De Wit et al. (2019)][1] for details.
