@@ -36,7 +36,7 @@ entries:
         url: WofostR2
       - title: LingraNR, grassland productivity model in R
         url: LingraNR
-      - title: Biolinv, modelling and forecasting biological invasions
+      - title: Biolinv, modelling and forecasting biological invasions in R
         url: https://cran.r-project.org/package=Biolinv
 
 
