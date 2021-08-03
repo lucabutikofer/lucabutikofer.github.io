@@ -2,15 +2,6 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Links
-    entries:
-      - title: github
-        url: https://github.com/lucabutikofer
-      - title: rothamsted
-        url: https://www.rothamsted.ac.uk/our-people/luca-bütikofer
-      - title: google scholar
-        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
-
   - title: Latest publications
     entries:     
       - title: Gardner, A. S., Maclean, I. M. D., Gaston, K. J. & Bütikofer, L.
@@ -38,6 +29,15 @@ entries:
         url: LingraNR
       - title: Biolinv, modelling and forecasting biological invasions in R
         url: https://cran.r-project.org/package=Biolinv
+
+  - title: Links
+    entries:
+      - title: github
+        url: https://github.com/lucabutikofer
+      - title: rothamsted
+        url: https://www.rothamsted.ac.uk/our-people/luca-bütikofer
+      - title: google scholar
+        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
 
 #   - title: all posts
