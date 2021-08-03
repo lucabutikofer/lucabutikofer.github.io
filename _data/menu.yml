@@ -14,11 +14,16 @@ entries:
         url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
   - title: latest publications
-    entries:
-      - title: cit.1 <a href="url"> DOI HERE </a>
-      - title: cit.2 <a href="url"> DOI HERE </a>
-      - title: cit.3 <a href="url"> DOI HERE </a>
-      - title: cit ... <a href="url"> DOI HERE </a>
+    entries:     
+      - title: Gardner, A. S., Maclean, I. M. D., Gaston, K. J. & Bütikofer, L. Forecasting future crop suitability with microclimate data. Agricultural Systems 190, 103084 (2021).
+               <a href = https://doi.org/10.1016/j.agsy.2021.103084> 10.1016/j.agsy.2021.103084 </a> 
+      - title: Bütikofer, L. et al. The problem of scale in predicting biological responses to climate. Global Change Biology 26, 6657–6666 (2020).
+               <a href = https://doi.org/10.1111/gcb.15358> 10.1111/gcb.15358 </a>  
+      - title: Bütikofer, L., Mangiacotti, M., Sacchi, R. & Ji, W. Climate migrants’ survival threatened by “C” shaped anthropic barriers. Integrative Zoology 1749-4877.12391 (2019) doi:10.1111/1749-4877.12391.
+               <a href = https://doi.org/10.1111/1749-4877.12391> 10.1111/1749-4877.12391 </a>
+      - title: Bütikofer, L., Jones, B., Sacchi, R., Mangiacotti, M. & Ji, W. A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal. Plos One 13, e0205591 (2018).
+               <a href = https://doi.org/10.1371/journal.pone.0205591> 10.1371/journal.pone.0205591 </a>
+
 
 
   - title: software
