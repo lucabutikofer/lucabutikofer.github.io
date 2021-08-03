@@ -69,7 +69,7 @@ plotw(weatherExmpl[1:365,])
 plotdm(lo)
 plotn(lo)
 ```
-![][LingranrOutput1]
+![alt text][lingraOutpu1]
 
 
 #### Running Qi <i>et al.</i>'s metamodel
