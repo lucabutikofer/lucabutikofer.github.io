@@ -3,13 +3,13 @@ R Interface to [LINGRA-N Tool](https://widgets.figshare.com/articles/11359613/em
 
 
 
-# Installation
+## Installation
 ```R
 devtools::install_github('lucabutikofer/LingraNR')
 ```
 
 
-# Documentation
+## Documentation
 
 LINGRA-N  is a  grass growth model which can calculate grass growth and yields under potential, water-limited and nitrogen-limited growing conditions. LINGRA-N is a generic model which can be used for different grass types growing under a large range of soil and weather conditions and with different mowing regimes. The background document and detailed information about LINGRA-N and its FORTRAN code are provided by Wolf (2012)<sup>[3](#footn3)</sup>.
 
@@ -19,11 +19,11 @@ Package LingraNR is an R wrapper for the LINGRA-N Tool, allowing the model to be
 
 Additionally, functions to run the grassland productivity metamodel of Qi <i>at al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup> for the UK are also provided.
 
-# Running LINGRA-N
+## Running LINGRA-N
 
 LINGRA-N simulations are carried out by function Lingranr(). This requires information on weather, soil, and management.
 
-## Weather
+### Weather
 Weather data is to be provided in daily time steps and must contain information on:
 
   * Total solar radiation [MJ/m2*day]
@@ -35,7 +35,7 @@ Weather data is to be provided in daily time steps and must contain information 
 
 Additionally, date and location information are added to the weather input table. See `?Lingranr` for details and `weatherExmpl` for and example.
 
-## Soil
+### Soil
 Soil information is to be provided for each location and must contain:
 
   * Soil depth [mm]
@@ -45,11 +45,11 @@ Soil information is to be provided for each location and must contain:
 
 See `?Lingranr` for details and `soilExmpl` for and example.
 
-## Management
+### Management
 Management information is to be provided as two separate objects specifying harvest dates and fetilisation dates with fertilisation amounts in equivalent mineral nitrogen.
 See `?Lingranr` for details and `harvestExmpl; fertilisExmpl` for examples.
 
-# Example
+## Example
 To run LINGRA-N with example data and plot the model outputs:
 
 ```R
@@ -71,14 +71,14 @@ plotn(lo)
 ![][lingraOutpu1]
 
 
-# Running Qi <i>et al.</i>'s metamodel
+## Running Qi <i>et al.</i>'s metamodel
 
 The metamodel is run with three independent functions for permanent (`pg()`), temporary (`tg()`) and semi-natural (rough grazing, `rg()`) grassland. See `?metamodel` for details. The metamodel uses seasonal weather data and only requires additional information on the soils' available water content.
 
 Additionally, a yield modifyer function (`Nchange()`) is available to correct the metamodel's output whenever precise information on nitrogen fertilisation is available. For details about the metamodelmodel see Qi <i>at al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup>.
 
 
-# Bibliography
+## Bibliography
 
 <a name="footn1">1</a>: Qi, A., Murray, P. J. & Richter, G. M. Modelling productivity and resource use efficiency for grassland ecosystems in the UK. European Journal of Agronomy 89, 148–158 (2017).
 

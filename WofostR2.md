@@ -8,7 +8,7 @@ date: "2021-08-01"
 
 
 
-# R implementation of Wofost crop simulation model
+## R implementation of Wofost crop simulation model
 
 
 See [De Wit et al. (2019)][1] for details.
@@ -16,7 +16,7 @@ See [De Wit et al. (2019)][1] for details.
 Python version available at [ajdewit/pcse][2] as part of the Python Crop Simulation Environment (PCSE/WOFOST).
 
 
-# Installation
+## Installation
 Install with:
 
 
@@ -25,7 +25,7 @@ Install with:
                              build_vignettes = T)
 
 
-# Testing
+## Testing
 
 After installation is complete you can test the program with `test()`.This command uses the files published by [De Wit et al.][1] downloading a copy from the [WofostR_testData repository][3] to test either a specific routine (e.g. `test(component = "leafdynamics")`) or all available components if none is specified. Currently only "astro", "leafdynamics" and "potentialproduction" are implemented. Many routines are not independent funtions like in [PCSE/WOFOST][2] but are hardcoded within function `Wofost()`, which is run in the "potentialproduction" and "waterlimitedproduction" tests. Passing the "potentialproduction" or "waterlimitedproduction" tests means also passing "assimilation", "astro", "leafdynamics", "partitioning", "phenology", "respiration", "rootdynamics" and "transpiration" (although transpiration is not actually used to copute potential production).
 By default only three test sets are randomly chosen to perform tests on. This is done to speed up the process. To perform tests on all available sets call `test(complete = TRUE)`.
@@ -38,7 +38,7 @@ By default only three test sets are randomly chosen to perform tests on. This is
     test()
 
 
-# Input files
+## Input files
 
 Four types of input files are required to run the Wofost():
 
@@ -175,7 +175,7 @@ ManagerObjects are used to run a sequence of crops simulation in succession for 
     #> [3,] 10
 
 
-# Running Wofost
+## Running Wofost
 
 Wofost crop simulation model is run by functions `Wofost()`. Potential Production and Free Draining water-limited production are called by setting variable `waterLimited` to `FALSE` or `TRUE` respectively.
 
@@ -198,7 +198,7 @@ Wofost crop simulation model is run by functions `Wofost()`. Potential Productio
 
 
 
-# Available Crops and Varieties {#link1}
+## Available Crops and Varieties {#link1}
 
 
 |crop        |variety                    |
