@@ -4,7 +4,7 @@ email: lucabutikofer@gmail.com # email of site's author
 # url: https://riggraz.dev # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Spatial- Agro- Macro- Ecologist. <br><br>
+
 
 
 permalink: /:slug.html
