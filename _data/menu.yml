@@ -2,5 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Ecologist
-  - title: Photographer
+  - title: <a href = https://lucabutikofer.github.io/Ecology/>
+            Ecologist
+           </a>
+  - title: <a href = https://lucabutikofer.github.io/Photography/>
+            Photographer
+           </a>
+  
