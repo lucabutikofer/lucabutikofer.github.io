@@ -2,10 +2,64 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <a href = https://lucabutikofer.github.io/Ecology/>
-            Ecologist
+  - title: Latest publications
+    entries:     
+      - title: Goodwin, C.E.D., Bütikofer, L., Hatfield, J., Evans, P., Bullock, J.M., 
+               Storkey, J., Mead, A., Richter, G.M., Pywell, R.F., Redhead, J.W.
+               <a href = https://doi.org/10.5285/3b44375a-cbe6-468c-9395-41471054d0f3>
+               Multi-level archetypes to characterise British landscapes, farmland and farming practices.</a>
+               Environmental Research Letters (2022)
+      - title: Gardner, A. S., Maclean, I. M. D., Gaston, K. J. & Bütikofer, L.
+               <a href = https://doi.org/10.1016/j.agsy.2021.103084>
+               Forecasting future crop suitability with microclimate data.</a>
+               Agricultural Systems (2021).
+      - title: Bütikofer, L., Anderson K., Bebber Daniel P., Bennie J. J. , Early R. I., Maclean I. M. D.
+               <a href = https://doi.org/10.1111/gcb.15358>
+               The problem of scale in predicting biological responses to climate.</a>
+               Global Change Biology (2020).
+      - title: Bütikofer, L., Mangiacotti, M., Sacchi, R. & Ji, W.
+               <a href = https://doi.org/10.1111/1749-4877.12391>
+               Climate migrants’ survival threatened by “C” shaped anthropic barriers.</a>
+               Integrative Zoology (2019).
+      - title: Bütikofer, L., Jones, B., Sacchi, R., Mangiacotti, M. & Ji, W.
+               <a href = https://doi.org/10.1371/journal.pone.0205591>
+               A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal.</a>
+               Plos One (2018).
+
+
+  - title: Projects
+    entries:
+      - title: 4°C or more, Swiss landscapes under climate change
+        url: projects/Project_4C
+
+
+  - title: Software
+    entries:
+      - title: WofosR, crop suitability model in R
+        url: WofostR2
+      - title: LingraNR, grassland productivity model in R
+        url: LingraNR
+      - title: Biolinv, modelling and forecasting biological invasions in R
+        url: https://cran.r-project.org/package=Biolinv
+
+
+  - title: Links
+    entries:
+      - title: github
+        url: https://github.com/lucabutikofer
+      - title: Centre Interdisciplinaire de Recherche sur la Montagne
+        url: https://www.unil.ch/centre-montagne/home.html
+      - title: Aubert Foundation
+        url: https://www.flore-alpe.ch/en/research/
+      - title: google scholar
+        url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
+
+
+  - title: Contact
+    entries:
+      - title: You can write to me at <a href="mailto:write@lucabutikofer.name">write@lucabutikofer.name</a>.
+
+
+  - title: <a href = https://lucabutikofer.github.io/>
+           Root page
            </a>
-  - title: <a href = https://lucabutikofer.github.io/Photography/>
-            Photographer
-           </a>
-  
