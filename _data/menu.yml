@@ -45,13 +45,13 @@ entries:
 
   - title: Links
     entries:
-      - title: github
+      - title: GitHub
         url: https://github.com/lucabutikofer
       - title: Centre Interdisciplinaire de Recherche sur la Montagne
         url: https://www.unil.ch/centre-montagne/home.html
       - title: Aubert Foundation
         url: https://www.flore-alpe.ch/en/research/
-      - title: google scholar
+      - title: Google Scholar
         url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
 
@@ -60,6 +60,6 @@ entries:
       - title: You can write to me at <a href="mailto:write@lucabutikofer.name">write@lucabutikofer.name</a>.
 
 
-  - title: <a href = https://lucabutikofer.name/Photograph>
+  - title: <a href = https://lucabutikofer.name/Photography>
            Photography
            </a>
