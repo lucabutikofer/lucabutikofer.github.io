@@ -28,36 +28,36 @@ html, body { background: white; }
   font-family: "iA Writer Duospace";
   font-weight: normal;
   font-style: normal;
-  src: url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Regular.eot) format("embedded-opentype"),
-    url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Regular.woff2) format("woff2"),
-    url(https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Regular.woff) format("woff");
+  src: url("iAWriterDuospace-Regular.eot") format("embedded-opentype"),
+    url("iAWriterDuospace-Regular.woff2") format("woff2"),
+    url("iAWriterDuospace-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "iA Writer Duospace";
   font-weight: normal;
   font-style: italic;
-  src: url("../../fonts/iAWriterDuospace-Italic.eot") format("embedded-opentype"),
-    url("../../fonts/iAWriterDuospace-Italic.woff2") format("woff2"),
-    url("../../fonts/iAWriterDuospace-Italic.woff") format("woff");
+  src: url("iAWriterDuospace-Italic.eot") format("embedded-opentype"),
+    url("iAWriterDuospace-Italic.woff2") format("woff2"),
+    url("iAWriterDuospace-Italic.woff") format("woff");
 }
 
 @font-face {
   font-family: "iA Writer Duospace";
   font-weight: bold;
   font-style: normal;
-  src: url("../../fonts/iAWriterDuospace-Bold.eot") format("embedded-opentype"),
-    url("../../fonts/iAWriterDuospace-Bold.woff2") format("woff2"),
-    url("../../fonts/iAWriterDuospace-Bold.woff") format("woff");
+  src: url("iAWriterDuospace-Bold.eot") format("embedded-opentype"),
+    url("iAWriterDuospace-Bold.woff2") format("woff2"),
+    url("iAWriterDuospace-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "iA Writer Duospace";
   font-weight: bold;
   font-style: italic;
-  src: url("../../fonts/iAWriterDuospace-BoldItalic.eot") format("embedded-opentype"),
-    url("../../fonts/iAWriterDuospace-BoldItalic.woff2") format("woff2"),
-    url("../../fonts/iAWriterDuospace-BoldItalic.woff") format("woff");
+  src: url("iAWriterDuospace-BoldItalic.eot") format("embedded-opentype"),
+    url("iAWriterDuospace-BoldItalic.woff2") format("woff2"),
+    url("iAWriterDuospace-BoldItalic.woff") format("woff");
 }
 // ---------------------------------------- //
 
@@ -66,7 +66,7 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: monospace, "iA Writer Duospace";
+  font-family: "iA Writer Duospace", monospace;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
@@ -133,19 +133,4 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
-}
-
-
-// link options 
-
-a:link {
-  color: blue;
-}
-
-a:visited {
-  color: blue;
-}
-
-a:hover {
-  font-style: italic;
 }
