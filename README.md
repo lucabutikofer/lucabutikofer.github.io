@@ -1,2 +1,2 @@
 # Luca Bütikofer
-personal ecology page [HERE](https://lucabutikofer.github.io/Ecology).
+[personal web page](https://lucabutikofer.github.io).
