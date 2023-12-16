@@ -10,7 +10,7 @@ date: "2023-12-05"
 | ![](https://github.com/lucabutikofer/Ecology/blob/main/figures/Entremont_Evolution.gif?raw=true) | ![](https://github.com/lucabutikofer/Ecology/blob/main/figures/Legend_LULC.png?raw=true) |
 
 
-| ![](figures/Entremont_Evolution.gif) | ![](figures/Legend_LULC.png) |
+| ![](/figures/Entremont_Evolution.gif) | ![](/figures/Legend_LULC.png) |
 
 # Project summary
 The following text is a GPT3 translation of the summary at the beginning of the [French version of the official project report](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/).
