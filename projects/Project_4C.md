@@ -7,7 +7,7 @@ date: "2023-12-05"
 
 [Reports](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/) \| [Visualisations](https://viergrad.envidat.ch) \| [Videos](https://envidat.ch/#/metadata/teaser-videos-swiss-landscapes-under-climate-change) \| [Swiss Federal Office For the Environment](https://www.bafu.admin.ch/bafu/fr/home/themes/paysage/dossiers/le-paysage-changera-avec-le-climat.html) \| [Watson News](https://www.watson.ch/schweiz/klima/692747836-so-sieht-die-schweiz-in-60-jahren-aus-wenn-wir-nicht-aufpassen)
 
-| ![](./figures/Entremont_Evolution.gif) | ![](./figures/Legend_LULC.png) |
+| ![](/figures/Entremont_Evolution.gif) | ![](/figures/Legend_LULC.png) |
 
 # Project summary
 The following text is a GPT3 translation of the summary at the beginning of the [French version of the official project report](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/).
