@@ -23,7 +23,7 @@ Under the NERC Research Translation: Grassland Management project (NE/R017387/1)
 
 Package LingraNR is an R wrapper for the LINGRA-N Tool, allowing the model to be ran entirely without leaving the R environment. LINGRA-N computations are carried out internally to the Excel Workbook via the xlsx R package (Java based), while LingraNR manages inputs and outputs, and provides functions to display the model's results.
 
-Additionally, functions to run the grassland productivity metamodel of Qi <i>at al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup> for the UK are also provided.
+Additionally, functions to run the grassland productivity metamodel of Qi <i>et al.</i> (2017 & 2018)<sup>[1](#foot1),[2](#foot1)</sup> for the UK are also provided.
 
 ## Running LINGRA-N
 
