@@ -1,5 +1,5 @@
 ---
-title: About"
+title: "About"
 author: "Luca Bütikofer"
 date: "2021-01-13"
 ---
