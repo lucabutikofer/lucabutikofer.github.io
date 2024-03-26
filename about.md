@@ -7,13 +7,13 @@ date: "2021-01-13"
 <img src="/figures/LucaButikofer.jpg" alt="Luca Bütikofer" width="200"/>
 
 
-## In brief:
+## In brief
 
 I am a postdoctoral researcher at the University of Lausanne investigating how living things interact with the landscapes of which they are part.
 The last two years in this institute saw me forecasting the evolution of both [land-cover in Switzerland](../projects/Project_4C.md) and Alpine plant communities in Swiss proglacial zones. While the main focus of 2024-25 will be on the conservation of crop wild relatives in Europe.
 
 
-## In a little more depth:
+## In a little more depth
 
 The contemporary global environment is characterised by the convergence of interactive and multifaceted challenges that collectively form a highly complex system. To give an example of this complexity, consider how the impacts of climate change extend beyond rising temperatures and erratic weather patterns, and synergise with biodiversity loss, as affected ecosystems struggle to keep up with the pace of change.
 
