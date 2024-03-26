@@ -9,7 +9,8 @@ entries:
   - title: Latest publications
     entries:
       - title: Bütikofer, L., Adde, A., Urbach, D., Tobias, S., Huss, M., Guisan, A., Randin, C.,
-               Policy-informed, high-resolution land use/cover forecasts for Switzerland in the 21st century.
+               <a href = https://www.nature.com/articles/s41597-024-03055-z>
+               High-resolution land use/cover forecasts for Switzerland in the 21st century.</a>
                Accepted by Scientific Data (2024)
       - title: Tobias, S., Siegrist, E.G., Bütikofer, L., Bürgi, M., Liechti, K.,
                Reynard, E., Guisan, A, Urbach, D; Randin, C. <a href = https://doi.org/10.55419/wsl:35310> 
@@ -32,14 +33,14 @@ entries:
                <a href = https://doi.org/10.1111/gcb.15358>
                The problem of scale in predicting biological responses to climate.</a>
                Global Change Biology (2020).
-      - title: Bütikofer, L., Mangiacotti, M., Sacchi, R. & Ji, W.
-               <a href = https://doi.org/10.1111/1749-4877.12391>
-               Climate migrants’ survival threatened by “C” shaped anthropic barriers.</a>
-               Integrative Zoology (2019).
-      - title: Bütikofer, L., Jones, B., Sacchi, R., Mangiacotti, M. & Ji, W.
-               <a href = https://doi.org/10.1371/journal.pone.0205591>
-               A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal.</a>
-               Plos One (2018).
+#       - title: Bütikofer, L., Mangiacotti, M., Sacchi, R. & Ji, W.
+#                <a href = https://doi.org/10.1111/1749-4877.12391>
+#                Climate migrants’ survival threatened by “C” shaped anthropic barriers.</a>
+#                Integrative Zoology (2019).
+#       - title: Bütikofer, L., Jones, B., Sacchi, R., Mangiacotti, M. & Ji, W.
+#                <a href = https://doi.org/10.1371/journal.pone.0205591>
+#                A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal.</a>
+#                Plos One (2018).
 
 
   - title: Projects
