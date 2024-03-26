@@ -10,7 +10,7 @@ date: "2021-01-13"
 ## In brief
 
 I am a postdoctoral researcher at the University of Lausanne investigating how living things interact with the landscapes of which they are part.
-The last two years in this institute saw me forecasting the evolution of both [land-cover in Switzerland](../projects/Project_4C.md) and Alpine plant communities in Swiss proglacial zones. While the main focus of 2024-25 will be on the conservation of crop wild relatives in Europe.
+The last two years in this institute saw me forecasting the evolution of both [land-use/land-cover](../projects/Project_4C.md) and Alpine plant communities in Switzerland. The main focus of 2024-25 will be on the conservation of crop wild relatives in Europe.
 
 
 ## In a little more depth
