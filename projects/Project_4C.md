@@ -34,7 +34,7 @@ To meet the requirement of raising awareness of the consequences of climate chan
 - [Project report in German](https://www.wsl.ch/de/publikationen/4-c-und-mehr-schweizer-landschaften-im-klimawandel/)
 - [Project report in French](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/)
 - [Visualisations](https://viergrad.envidat.ch)
-- [Models repository](https://www.envidat.ch/#/edit/swiss_lulc_forecast_21th_century/Data%20&%20Resources?backPath=%2Fmetadata%2Fswiss_lulc_forecast_21th_century)
+- [Models repository](https://doi.org/10.16904/envidat.458)
 - Scientific publication available soon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qj9hxkxrIZ8?si=3rBJ-NpUA-Xi-tb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
