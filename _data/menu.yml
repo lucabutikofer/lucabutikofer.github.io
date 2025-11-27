@@ -60,7 +60,7 @@ entries:
       - title: LingraNR, grassland productivity model in R
         url: LingraNR
       - title: Biolinv, modelling and forecasting biological invasions in R
-        url: _posts/2025-11-27-Biolinv_Tutorial.md
+        url: Biolinv_Tutorial.md
 
 
   - title: Links
