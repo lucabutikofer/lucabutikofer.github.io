@@ -9,7 +9,7 @@ date: "2025-11-27"
 
 ### Biolinv R package tutorial
 
-See [Bütikofer et al. (2018)][1] for details.
+See [Bütikofer et al. (2018)][1] and [GitHub repo](https://github.com/lucabutikofer/Biolinv) for details.
 
 ### Installation
 Install with:
