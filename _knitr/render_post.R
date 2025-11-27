@@ -27,7 +27,7 @@ KnitPost <- function(bashwd = "", convert_file = "", overwrite = FALSE) {
   # old working directory (added by Luca on 2021.01.31)
   old.wd <- getwd()
   # directory of jekyll blog (including trailing slash)
-  site.path <- "/Users/lucabutikofer/GitHub/lucabutikofer.github.io/"
+  site.path <- "/Users/lucabutikofer/Documents/GitHub/lucabutikofer.github.io/"
   # directory where your Rmd-files reside (relative to base)
   rmd.path <- paste0(site.path, "_knitr")
   # directory to save figures
