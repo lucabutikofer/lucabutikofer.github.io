@@ -8,5 +8,5 @@ date: "2021-01-13"
 
 
 I am a researcher at the [University of Lausanne](https://www.unil.ch/dee/en/home/menuguid/people/staff--admins/luca-butikofer.html) investigating how living things interact among themselves and with the landscapes of which they are part.
-The last few years in this institute saw me forecasting the evolution of both [land-use/land-cover](../projects/Project_4C.md) and Alpine plant communities in Switzerland. The main focus of 2024-25 has been on the conservation of [crop wild relatives in Europe](https://cousinproject.eu).
+The last few years in this institute saw me forecasting the evolution of both [land-use/land-cover](../projects/Project_4C) and Alpine plant communities in Switzerland. The main focus of 2024-25 has been on the conservation of [crop wild relatives in Europe](https://cousinproject.eu).
 In 2026 I will be developing holistic models of vegetation dynamics (more on this soon).
