@@ -37,7 +37,8 @@ To meet the requirement of raising awareness of the consequences of climate chan
 - [Project report in French](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/)
 - [Visualisations](https://viergrad.envidat.ch)
 - [Models repository](https://doi.org/10.16904/envidat.458)
-- Scientific publication available soon
+- [Le Nouvelliste](https://www.lenouvelliste.ch/valais/bas-valais/entremont-district/changement-climatique-a-quoi-ressemblera-lentremont-en-2085-une-etude-devoile-deux-scenarios-1348051)
+- [Scientific publication](https://www.nature.com/articles/s41597-024-03055-z)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qj9hxkxrIZ8?si=3rBJ-NpUA-Xi-tb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
