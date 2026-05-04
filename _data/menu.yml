@@ -12,10 +12,10 @@ entries:
                <a href = https://www.nature.com/articles/s41597-024-03055-z>
                High-resolution land use/cover forecasts for Switzerland in the 21st century.</a>
                Scientific Data (2024)
-      - title: Tobias, S., Siegrist, E.G., Bütikofer, L., Bürgi, M., Liechti, K.,
-               Reynard, E., Guisan, A, Urbach, D; Randin, C. <a href = https://doi.org/10.55419/wsl:35310> 
-               +4 °C et plus, les paysages suisses face au changement climatique.</a>
-               WSL Berichte Vol. 140. (2023)
+      - title: Varma, V., Evans, P.M., Bütikofer, L., Goodwin, C.E., Pywell, R.F., Redhead, J.W., Storkey, J., Bullock, J.M. and Mead, A.,
+               <a href = https://doi.org/10.1101/2024.08.01.606212>
+               Sensitivities in associating land-system archetypes with sustainability metrics: Insights from simulations. </a>
+               bioRxiv (2024)
       - title: Bütikofer, L., Goodwin, C.E.D., Varma, V., Evans, P., Redhead,
                J.W., Bullock, J.M., Pywell, R., Mead, A., Richter, G.M., Storkey, J.
                <a href = https://doi.org/10.1016/j.ecolind.2024.112433>Identifying pathways to more sustainable farming using archetypes and multi-objective optimisation</a>.
@@ -33,6 +33,10 @@ entries:
                <a href = https://doi.org/10.1111/gcb.15358>
                The problem of scale in predicting biological responses to climate.</a>
                Global Change Biology (2020).
+#       - title: Tobias, S., Siegrist, E.G., Bütikofer, L., Bürgi, M., Liechti, K.,
+#                Reynard, E., Guisan, A, Urbach, D; Randin, C. <a href = https://doi.org/10.55419/wsl:35310> 
+#                +4 °C et plus, les paysages suisses face au changement climatique.</a>
+#                WSL Berichte Vol. 140. (2023)
 #       - title: Bütikofer, L., Mangiacotti, M., Sacchi, R. & Ji, W.
 #                <a href = https://doi.org/10.1111/1749-4877.12391>
 #                Climate migrants’ survival threatened by “C” shaped anthropic barriers.</a>
